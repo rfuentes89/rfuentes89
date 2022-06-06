@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rfuentes89
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Raul Fuentes.
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning HTMl, CSS and Javascript.
+- 💞️ I’m looking to collaborate on web app and web pages.
+- 📫 How to reach me: raulfuentesblanco@gmail.com
 
 <!---
 rfuentes89/rfuentes89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
