@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raul Fuentes.
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning HTMl, CSS and Javascript.
-- 💞️ I’m looking to collaborate on web app and web pages.
+- 👀 I’m interested in imaging processing.
+- 🌱 I’m currently learning Matlab and Python.
 - 📫 How to reach me: raulfuentesblanco@gmail.com
 
 <!---
