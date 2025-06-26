@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Raul Fuentes.
 - 👀 I’m interested in imaging processing.
 - 🌱 I’m currently learning Matlab and Python.
+- 💆‍♂️PhD student
 - 📫 How to reach me: raulfuentesblanco@gmail.com
 
 <!---
